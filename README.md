@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-hello
+The purpose of the project was to help Louise determine how well other compaigns did in accomplishing their fundraiser goals. Raw data obtained by Louise was sorted and analyzed to help her accomplish this goal.
 
 ## Analysis and Challenges
 
