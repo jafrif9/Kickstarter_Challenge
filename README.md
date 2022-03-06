@@ -14,6 +14,7 @@ The year of creation for each campaign was retrieved from the Unix timestamps in
 Due to the goals of the campaigns falling under a relatively large range, twelve smaller ranges were created to better divide and visualize the raw data. From there, the number of successful, failed, and canceled campaigns pertaining to plays, falling under each goal range, were calculated, and added to a separate table. Campaigns pertaining to plays were only used to ensure data was relevant to Louise's own campaign fundraiser. From the new table, percentage of successful, failed, and canceled campaigns in each range were calculated and shown in a line chart for ease in analysis.
 
 ### Challenges and Difficulties Encountered
+The main difficulty faced was working with a large sample size and raw dataset. The difficulty was mainly overcome by being meticulous with all formulas and changes to the data, to ensure the greatest efficiency.
 
 ## Results
 
